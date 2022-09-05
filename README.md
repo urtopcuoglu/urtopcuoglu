@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @urtopcuoglu
-- 👀 I am interested in Web Design, desktop programming. I know HTML and CSS but I want to learn more. For example, Node.js, Bootstrap, Angular, ASP.NET MVC.
-- 🌱 I am learning c#. I also want to learn PHP , mySQL , JS and various frameworks.
-- 💞️ I am open to cooperation. You can contact me via social media, e-mail or github.
+- 👋 Hi, I’m @urtopcuoglu. My name is Umutcan . I'm Junior Software Developer. I live in Ankara, Turkey.
+- 👀 I graduated from web design in high school.But I'm currently in computer Programming at Kirikkale University.
+- 🌱 I know HTML and CSS , C# and MY-SQL (SQLSERVER T-SQL). I also get to learn C++, React , node.js and  Flutter.
 - 📫 You can reach me at urt.info.bireysel@gmail.com or by sending a message to "@kalicinikname" on Instagram.
 
 <!---
